@@ -68,7 +68,7 @@ deactivate
 
 ### 3. Install Dependencies
 
-Set up your project with the necessary packages and libraries. After activating the virtual environment, enter the following command:
+Set up your project with the necessary packages and libraries. <b>After activating the virtual environment</b>, enter the following command:
 
 ```shell
 pip install -r requirements.txt
