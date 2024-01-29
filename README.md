@@ -15,7 +15,7 @@ If you need to run these notebooks and experiment with them, follow these steps 
 1. <a href="https://git-scm.com/">Git</a>
 2. <a href="https://www.python.org/">Python</a> (recommended to have version 3.9.0 or above)
 
-The <a href="https://www.anaconda.com/">Anaconda</a> suite of software is not necessary to be installed in your system, since we can use Python's `virtualenv` to manage dependencies properly.
+The <a href="https://www.anaconda.com/">Anaconda</a> software suite is not necessary to be installed in your system, since we can use Python's `virtualenv` to manage dependencies properly.
 
 After Python has been set up, install the `virtualenv` package to create and manage a virtual environment for this project. This helps you maintain the project's dependencies in a hassle-free manner, without installing any unnecessary packages globally throughout your system.
 
