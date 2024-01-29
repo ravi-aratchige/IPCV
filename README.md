@@ -105,6 +105,7 @@ This project is still underway, so you can expect changes often!
 ### To-Do
 
 - [ ] Fix triangle detection bug (last image in `Shapes.ipynb`)
+- [ ] Write explanation for face detection with intelligent template matching
 - [ ] Migrate dependency management to <a href="https://python-poetry.org/">Poetry</a>
 
 <hr />
