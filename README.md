@@ -77,7 +77,7 @@ pip install -r requirements.txt
 Or, you can also use:
 
 ```shell
-pip install notebook opencv-python numpy matplotlib face_recognition easyocr
+pip install notebook opencv-python numpy matplotlib face_recognition easyocr tensorflow pillow ipython
 ```
 
 This process may take a considerable amount of time, as several packages must be downloaded. It is recommended to have a <b>good Internet connection</b> before installing these requirements.
